@@ -1,5 +1,2 @@
 This is a test!
-
-Adding another line.
-
-Update. Boom!
+Changed again.
