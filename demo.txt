@@ -1,1 +1,3 @@
-Here is the new file for the demo.
+Here is the new file for the demo. 
+
+This is a new line.
